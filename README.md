@@ -33,7 +33,7 @@
 
 ### Deployment
 
-* [Lessons learn from deploying app to production](freecodecamp.org/news/lessons-learned-from-deploying-my-first-full-stack-web-application-34f94ec0a286/)
+* [Lessons learn from deploying app to production](https://www.freecodecamp.org/news/lessons-learned-from-deploying-my-first-full-stack-web-application-34f94ec0a286/)
 * [Bundling information for modern javascript](https://medium.com/better-programming/modern-approach-of-javascript-bundling-with-webpack-3b7b3e5f4e7)
 
 # Suspended
